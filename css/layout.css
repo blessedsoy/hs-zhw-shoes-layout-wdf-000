@@ -25,3 +25,40 @@
 /* Posititoning Classes */
 
 
+
+#logo {
+  width: 100%;
+}
+
+
+#sale {
+
+  width: 100%;
+  margin: 20px;
+}
+
+#featured {
+  width: 66%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+
+}
+
+#archive {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+body .shadow {
+
+  width: 30%;
+/*  margin-bottom: 20px;*/
+
+}
+
+.border_right {
+  top: 0;
+  display:inline-block;
+  width: 30%;
+  padding: 10px;
+}
